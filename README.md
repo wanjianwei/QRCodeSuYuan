@@ -16,4 +16,5 @@ xcode5及iOS7；
 
 #### 部分界面   
 
-> ![登录页面](http://7xr2r8.com1.z0.glb.clouddn.com/IMG_0095.jpg?imageView/2/w/90/q/90)
+> ![登录页面](./截图/IMG_0095.JPG =200*200)   
+> ![首界面](./截图/IMG_0096.JPG =200*200)
