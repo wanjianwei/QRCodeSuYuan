@@ -16,9 +16,9 @@ xcode5及iOS7；
 
 #### 部分界面   
 
-> ![登录页面](./截图/IMG_0095.jpg)
-> ![首界面](http://7xr2r8.com1.z0.glb.clouddn.com/IMG_0096.jpg?imageView/2/w/120/q/120)   
-> ![物品详情界面](http://7xr2r8.com1.z0.glb.clouddn.com/IMG_0100.jpg?imageView/2/w/120/q/120)
-> ![商品评论](http://7xr2r8.com1.z0.glb.clouddn.com/IMG_0103.jpg?imageView/2/w/120/q/120)   
-> ![物流追踪](http://7xr2r8.com1.z0.glb.clouddn.com/IMG_0104.jpg?imageView/2/w/120/q/120)
-> ![个人信息](http://7xr2r8.com1.z0.glb.clouddn.com/IMG_0105.jpg?imageView/2/w/120/q/120)
+> ![登录页面](./截图/login.jpg)
+> ![首界面](./截图/shouye.jpg)   
+> ![物品详情界面](./截图/detail.jpg)
+> ![商品评论](./截图/comment.jpg)   
+> ![物流追踪](./截图/map.jpg)
+> ![个人信息](./截图/setup.jpg)
